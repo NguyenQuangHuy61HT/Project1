@@ -8,5 +8,6 @@
 </head>
 <body>
     <p style="color:red">Day la footer</p>
+    <a href="#"> icon</a>
 </body>
 </html>
