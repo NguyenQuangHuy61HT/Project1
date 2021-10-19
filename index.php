@@ -49,5 +49,4 @@ echo "Chucvu: " . $NV->get_chucvu()."<br >";
 echo "Email: " . $NV->get_email()."<br>";
 echo   "SĐT:" . $NV  ->  get_sdd (). "<br>" ;
 
-
 ?>
