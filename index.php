@@ -45,9 +45,9 @@
 }
 $NV=new NhaVien('Nguyen Quang Huy','SinhVien','huy@gmail.com','0837329898');
 echo "Name: " . $NV->get_name()."<br>";
-echo "Chucvu: " . $NV->get_chucvu()."<br>";
+echo "Chucvu: " . $NV->get_chucvu()."<br >";
 echo "Email: " . $NV->get_email()."<br>";
-echo "SDT: " . $NV->get_sdd()."<br>";
-
+echo   "SĐT:" . $  NV  ->  get_sdd (). "<br>" ;
+echo ""f
 
 ?>
